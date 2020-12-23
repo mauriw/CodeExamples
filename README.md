@@ -2,7 +2,7 @@
 
 [Suction Grasp Region Detection](./RobotSuctionAI)
   - Trained RGB-D, VGG-FCN-8 image-segmentation model for predicting optimal suction grasp locations for robotics startup Nimble.ai in CS 230
-  - Tensorflow (Keras), sklean, numpy
+  - Tensorflow (Keras), sklearn, numpy
  
 [Edit Distance Algorithm Implementation](./edit-distance.ipynb)
   - Edit distance algorithm for use in NLP. 
