@@ -1,0 +1,15 @@
+*.pem
+.DS_Store
+output/
+data/
+venv/
+logs/
+mystuff.py
+small_aws_output/
+.env
+small_fcnn_model/
+small_fcnn/
+*__pycache__
+DepthAwareCNN/
+rgbd_fcnn/
+rgbd_fcnn_model/
