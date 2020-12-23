@@ -1,4 +1,4 @@
-# CodeExamples
+# Code Samples
 
 [Suction Grasp Region Detection](./RobotSuctionAI)
   - Trained RGB-D, VGG-FCN-8 image-segmentation model for predicting optimal suction grasp locations for robotics startup Nimble.ai in CS 230
